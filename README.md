@@ -1,6 +1,6 @@
-![](./github/header.png)
+![](./git/header.png)
 
-<img align="right" src="./github/webdev.svg" width="400px">
+<img align="right" src="./git/webdev.svg" width="400px">
 
 <h1 align="center"> Olá! Prazer em te conhecer! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="32px"></h1>
 
