@@ -1,5 +1,7 @@
-<a href="https://dannesx.github.io/"><img width="851" height="138" src="./git/logo.svg" alt="Logo"/></a>
-
+<a href="https://dannesx.github.io/">
+  <img src="./git/logo.svg" />
+</a>
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,unity,godot&theme=dark" />
 </div>
