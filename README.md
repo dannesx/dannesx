@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://dannesx.github.io/">
+  <a href="https://dannesx.com.br">
     <img src="./git/dannesx.svg" alt="logo"/>
   </a>
   <br>
